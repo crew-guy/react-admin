@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Title Onee",
+      "body": "Post One",
+      "publishedAt": "10-12-20"
+    },
+    {
+      "id": 2,
+      "title": "Title Two",
+      "body": "Post Two",
+      "publishedAt": "10-12-20"
+    },
+    {
+      "id": 3,
+      "title": "Title Three",
+      "body": "Post Three",
+      "publishedAt": "10-12-20"
+    },
+    {
+      "id": 4,
+      "title": "Title Four",
+      "body": "Post Four",
+      "publishedAt": "10-12-20"
+    },
+    {
+      "id": 5,
+      "title": "Title Five",
+      "body": "Post Five",
+      "publishedAt": "10-12-20"
+    },
+    {
+      "title": "Title 6",
+      "body": "Post 6",
+      "publishedAt": "2021-03-19",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "Ankit Sanghvi",
+      "email": "ankit.sanghavi87@gmail.com",
+      "id": 2
+    }
+  ]
+}
